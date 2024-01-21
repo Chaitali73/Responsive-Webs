@@ -1,0 +1,46 @@
+<div class="row justify-content-around text-center text-md-start ms-5">
+      <div class="col-md-3 text-center">
+        <ul class="list-unstyled">
+          <li class="fw-bold my-2">Devwares</li>
+          <li><a class="text-white text-decoration-none" href="#home">Resources</a></li>
+          <li><a class="text-white text-decoration-none" href="#services">About Us</a></li>
+          <li><a class="text-white text-decoration-none" href="#contact">Contact</a></li>
+          <li><a class="text-white text-decoration-none" href="#our-team">Blog</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 text-center">
+        <ul class="list-unstyled">
+          <li class="fw-bold my-2">API</li>
+          <li><a class="text-white text-decoration-none" href="#">Documentation</a></li>
+          <li><a class="text-white text-decoration-none" href="/">Credential</a></li>
+          <li><a class="text-white text-decoration-none" href="/">Developer Info</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 text-center">
+        <ul class="list-unstyled">
+          <li class="fw-bold my-2">Help</li>
+          <li><a class="text-white text-decoration-none" href="/">Support</a>
+          </li>
+          <li><a class="text-white text-decoration-none" href="/">Sign Up</a>
+          </li>
+          <li><a class="text-white text-decoration-none" href="/">Sign In</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <li class="fw-bold my-2 list-unstyled ">Follow us</li>
+        <ul class="list-unstyled d-flex justify-content-center justify-content-md-start">
+          <li><a href="#" class="text-white">
+            <i class="fa-brands fa-facebook mx-2 fa-1x"></i>
+          </a></li>
+          <li><a href="#" class="text-white">
+            <i class="fa-brands fa-twitter mx-2 fa-1x"></i>
+          </a></li>
+          <li><a href="#" class="text-white">
+            <i class="fa-brands fa-square-instagram mx-2 fa-1x"></i>
+          </a></li>
+        </ul>
+      </div>
+      <div class="footer-end text-center"><p>@Developed by Chaitali</p></div>
+    </div>
+  </footer>
